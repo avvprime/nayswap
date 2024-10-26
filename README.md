@@ -14,7 +14,7 @@ Tech:
      - Javascript
   - Backend:
      - PHP
-     - Firebase
+     - Firebase (for chat)
      - Mysql
   - Libraries & Frameworks:
      - Jquery
