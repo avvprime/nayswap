@@ -1,13 +1,13 @@
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-	apiKey: "AIzaSyBzrcyxzFUHWuM-M87A9RQXzfj4Be179ss",
-	authDomain: "nayswap-chat.firebaseapp.com",
-	databaseURL: "https://nayswap-chat-default-rtdb.firebaseio.com",
+	apiKey: "***************",
+	authDomain: "******************",
+	databaseURL: "***************",
 	projectId: "nayswap-chat",
 	storageBucket: "nayswap-chat.appspot.com",
-	messagingSenderId: "86560305465",
-	appId: "1:86560305465:web:fc5d902a6f7d4887ae78e8"
+	messagingSenderId: "************",
+	appId: "*****************"
 };
 // Initialize Firebase
 
