@@ -6,12 +6,12 @@ Tech:
   - Frontend:
      - HTML & CSS
      - Javascript
-     - Jquery
   - Backend:
      - PHP
      - Firebase
      - Mysql
   - Libraries & Frameworks:
+     - Jquery
      - CKEditor
      - Dropzone
      - Secure Image
