@@ -4,8 +4,8 @@ var firebaseConfig = {
 	apiKey: "***************",
 	authDomain: "******************",
 	databaseURL: "***************",
-	projectId: "nayswap-chat",
-	storageBucket: "nayswap-chat.appspot.com",
+	projectId: "********",
+	storageBucket: "************",
 	messagingSenderId: "************",
 	appId: "*****************"
 };
