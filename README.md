@@ -6,7 +6,7 @@ You'll see some of the folders are missing its because they are mostly third par
 
 ![](https://github.com/avvprime/nayswap/blob/main/sr-1.gif)
 
-![](https://github.com/avvprime/nayswap/blob/main/ss.webp)
+![](https://github.com/avvprime/nayswap/blob/main/sr-3.gif)
 
 Tech:
   - Frontend:
