@@ -2,6 +2,8 @@ This was my one of very first projects (2021). It is not good and contains lots 
 
 You'll see some of the folders are missing its because they are mostly third partly libraries.
 
+![](https://github.com/avvprime/nayswap/blob/main/sr-2.gif)
+
 Tech:
   - Frontend:
      - HTML & CSS
